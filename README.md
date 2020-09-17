@@ -1,7 +1,7 @@
-
-
+## Hey,Folks 👋
+  :man_technologist: I'm a student developer trying to improve my skills in programming.
+  
 #### About me:
--  :man_technologist: I'm a student developer trying to improve my skills in programming.
 - :book: currently learning GO,RUBY and RUST.
 - 🤔 I’m looking for help with ajax.
 - 💬 Ask me about the basics of coding.
@@ -31,4 +31,4 @@
 - Malayalam
 
 #### Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin Login-validation,Airline-reservation-system,Financial-calculator,Login-Form,Angle-calculator ,Temperature-converter,Calculator,Physics-calculator,Report-Card-Generator,Login-Page,Refractive-index-Table,Arithmetic-progression-calculator,Banking-System,BMI-calculator,commandline-assistant,Palindrome-checker,random_number_generator,useless_button_app/?username=Adityan-compile&theme=dark" />
+![Adityan's github stats](https://github-readme-stats.vercel.app/api?username=Adityan-compile&show_icons=true&theme=radical)
