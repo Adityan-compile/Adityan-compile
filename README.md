@@ -5,8 +5,12 @@
 - :book: currently learning Go,Ruby and Rust.
 - 🤔 I’m looking for help with Ajax.
 - 💬 Ask me about the basics of coding.
-- 📫 How to reach me: DM me on instagram @arty_frames_074.
 - ⚡ Fun fact: I am not a great developer.
+
+#### 📫 How to reach me: 
+- Shoot me a DM on instagram:<a href="https://www.instagram.com/arty_frames_074/">@arty_frames_074</a>.
+- stackoverflow:<a href="https://stackoverflow.com/users/13777039/adityan-p?tab=profile">@Adityan.P</a>
+- Sololearn:<a href="https://www.sololearn.com/Profile/18603740">@Adityan.P</a>
 
 #### Computer skills:
 - :snake: Python
