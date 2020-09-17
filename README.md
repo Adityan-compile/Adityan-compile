@@ -32,5 +32,3 @@
 
 #### Stats:
 ![Adityan's github stats](https://github-readme-stats.vercel.app/api?username=Adityan-compile&count_private=true&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityan-compile&layout=compact&lang_count=10%private_show=true)](https://github.com/Adityan-compile/github-readme-stats)
