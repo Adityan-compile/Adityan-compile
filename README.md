@@ -28,6 +28,9 @@
 - :floppy_disk: PHP
 - :page_facing_up: Markdown
 - :whale: Docker
+- :fire: Firebase
+- :dolphin: My SQL
+- :grey_exclamation: AWS
 
 #### Languages:
 - English
