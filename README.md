@@ -2,8 +2,8 @@
   :man_technologist: I'm a student developer trying to improve my skills in programming.
   
 #### About me:
-- :book: currently learning Go,Ruby and Rust.
-- 🤔 I’m looking for help with Ajax.
+- :book: currently learning Kotlin.
+- 🤔 I’m looking for help with Selenium.
 - 💬 Ask me about the basics of coding.
 - ⚡ Fun fact: I am not a great developer.
 
