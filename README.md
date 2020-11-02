@@ -5,7 +5,6 @@
 - :book: currently learning Kotlin.
 - 🤔 I’m looking for help with Selenium.
 - 💬 Ask me about the basics of coding.
-- ⚡ Fun fact: I am not a great developer.
 
 #### 📫 How to reach me: 
 - Shoot me a DM on instagram:<a href="https://www.instagram.com/arty_frames_074/">@arty_frames_074</a>.
