@@ -3,7 +3,7 @@
   
 #### About me:
 - :book: currently learning Kotlin.
-- 🤔 I’m looking for help with Selenium.
+- 🤔 I’m looking for help with Web Scrapping.
 - 💬 Ask me about the basics of coding.
 
 #### 📫 How to reach me: 
