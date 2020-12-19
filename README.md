@@ -2,7 +2,7 @@
   :man_technologist: I'm a student developer trying to improve my skills in programming.
   
 #### About me:
-- :book: currently learning Kotlin.
+- :book: currently learning GO.
 - 🤔 I’m looking for help with Web Scrapping and Unittesting.
 - 💬 Ask me about the basics of coding.
 
