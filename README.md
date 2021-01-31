@@ -37,3 +37,6 @@
 
 #### Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+#### Most used Languages
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chop0&layout=compact&count_private=true&show_icons=true&theme=dracula)
