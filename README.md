@@ -20,12 +20,14 @@
 - :octocat: Git/Github
 - :coffee: Java
 - :signal_strength: Html,Css and Javascript
-- :page_with_curl: Json,Xml,Yaml
-- :dart: Dart(Flutter)
+- :page_with_curl: Json,Xml
 - :floppy_disk: PHP
 - :whale: Docker
 - :fire: Firebase
+- :green_square: Node.JS
+- :train2: Express.JS 
 - :dolphin: My SQL
+- :herb: Mongo DB
 - :grey_exclamation: AWS
 
 #### Languages:
