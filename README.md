@@ -14,6 +14,7 @@
 - Website:https://adityan-compile.github.io/personal-portfolio/
 #### Computer skills:
 - :snake: Python
+- :hot_pepper: Flask
 - :computer: C/C++
 - :penguin: Linux
 - :pager: Bash
