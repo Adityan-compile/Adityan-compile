@@ -11,7 +11,7 @@
 - stackoverflow:<a href="https://stackoverflow.com/users/13777039/adityan-p?tab=profile">@Adityan.P</a>
 - Sololearn:<a href="https://www.sololearn.com/Profile/18603740">@Adityan.P</a>
 - Connect with me on Linkedin:<a href="https://www.linkedin.com/in/adityan-p-521a83205">@Adityan.P</a>
-- Website:https://adityan-compile.github.io/personal-portfolio/
+- Website:https://adityan-compile.github.io/
 #### Computer skills:
 - :snake: Python
 - :hot_pepper: Flask
